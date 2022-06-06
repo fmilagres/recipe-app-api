@@ -10,6 +10,8 @@ RUN mkdir /app
 WORKDIR /app
 COPY ./app /app
 
+RUN source /app/app-env
+
 RUN adduser -D user
 USER user
 

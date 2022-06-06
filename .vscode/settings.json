@@ -1,0 +1,7 @@
+{
+    "yaml.schemas": {
+        "kubernetes": "/*.yaml",
+        "file:///Users/ibm/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+        "https://json.schemastore.org/github-workflow.json": "file:///Users/ibm/projetos/recipe-app-api/.github/workflows/build.yml"
+    }
+}
